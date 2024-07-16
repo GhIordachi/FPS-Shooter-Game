@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 606e7a92959b7ac41a5a5c798cc8ba3f, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  itemName: Military Shotgun
+  itemModel: {fileID: 6184539712677761159, guid: 9baf9a85c7fb19c459ef7ece34534fb5, type: 3}
+  weaponIcon: {fileID: 21300000, guid: 3e5b59417df398d43a0fe783ae70aaa8, type: 3}
+  weaponAnimator: {fileID: 22100000, guid: f7c6d0c42a056b84ab04b24d94e2ce7c, type: 2}
+  damage: 30
+  remainingAmmo: 5
+  maxAmmo: 8
+  ammoType: 2
+  soundClip: {fileID: 8300000, guid: 8be47494cb5331c429327bf888216202, type: 3}

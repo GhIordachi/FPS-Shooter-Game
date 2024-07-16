@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chill Zombie
+  m_Controller: {fileID: 9100000, guid: 4813f749b337dd243ba064201f6050a4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3529a0c8dbd98164aab262ab6f4732c4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 09f5d0bb61415be4db358c366e7a6f51, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0221e3a32af640641b84997a7e9f9a8e, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: a70f5a149b297724385c4845a289df46, type: 3}
